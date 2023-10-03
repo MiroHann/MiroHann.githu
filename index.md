@@ -36,5 +36,5 @@ I really enjoy the visual nature of the elements you can add to a website!
 1. Makes it way easier to read for professionals and non professionals!
 1. The consistensy of formatting is kept between devices without interference from the developer!
 
-[!WARNING]
+> [!WARNING]
 > The time I've spent with Markdown in limited so my opinions might be off!
